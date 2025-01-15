@@ -1,6 +1,3 @@
-[submodule "Modules/WebStorage"]
-	path = Modules/WebStorage
-	url = https://github.com/Nebalus/WebStorage.git
 [submodule "Modules/WebFrontend"]
 	path = Modules/WebFrontend
 	url = https://github.com/Nebalus/WebFrontend.git
